@@ -1,0 +1,53 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreesusCore", "ThreesusCore\ThreesusCore.csproj", "{F407831F-A7E1-48BB-937C-F575568D2A9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreesusTest", "ThreesusTest\ThreesusTest.csproj", "{54F468BE-4D7C-435A-9067-3C7A613E4353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreesusAssistant", "ThreesusAssistant\ThreesusAssistant.csproj", "{749C297D-CB31-4FF3-A3D2-FF022A4C959A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Optimized Debug|Any CPU = Optimized Debug|Any CPU
+		Optimized Debug|x86 = Optimized Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F407831F-A7E1-48BB-937C-F575568D2A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F407831F-A7E1-48BB-937C-F575568D2A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F407831F-A7E1-48BB-937C-F575568D2A9F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F407831F-A7E1-48BB-937C-F575568D2A9F}.Optimized Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F407831F-A7E1-48BB-937C-F575568D2A9F}.Optimized Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F407831F-A7E1-48BB-937C-F575568D2A9F}.Optimized Debug|x86.ActiveCfg = Debug|Any CPU
+		{F407831F-A7E1-48BB-937C-F575568D2A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F407831F-A7E1-48BB-937C-F575568D2A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F407831F-A7E1-48BB-937C-F575568D2A9F}.Release|x86.ActiveCfg = Release|Any CPU
+		{54F468BE-4D7C-435A-9067-3C7A613E4353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F468BE-4D7C-435A-9067-3C7A613E4353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F468BE-4D7C-435A-9067-3C7A613E4353}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{54F468BE-4D7C-435A-9067-3C7A613E4353}.Optimized Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F468BE-4D7C-435A-9067-3C7A613E4353}.Optimized Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F468BE-4D7C-435A-9067-3C7A613E4353}.Optimized Debug|x86.ActiveCfg = Debug|Any CPU
+		{54F468BE-4D7C-435A-9067-3C7A613E4353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F468BE-4D7C-435A-9067-3C7A613E4353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F468BE-4D7C-435A-9067-3C7A613E4353}.Release|x86.ActiveCfg = Release|Any CPU
+		{749C297D-CB31-4FF3-A3D2-FF022A4C959A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749C297D-CB31-4FF3-A3D2-FF022A4C959A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749C297D-CB31-4FF3-A3D2-FF022A4C959A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{749C297D-CB31-4FF3-A3D2-FF022A4C959A}.Optimized Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749C297D-CB31-4FF3-A3D2-FF022A4C959A}.Optimized Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749C297D-CB31-4FF3-A3D2-FF022A4C959A}.Optimized Debug|x86.ActiveCfg = Debug|Any CPU
+		{749C297D-CB31-4FF3-A3D2-FF022A4C959A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749C297D-CB31-4FF3-A3D2-FF022A4C959A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749C297D-CB31-4FF3-A3D2-FF022A4C959A}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
