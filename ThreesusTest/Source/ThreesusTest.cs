@@ -14,7 +14,7 @@ namespace Threesus
 		private const int ITERATIONS = 100;
 
 		private static readonly IRand _seedRand = new Rand();
-		private static readonly IBot _bot = new StandardBotFramework(6, 3, BoardQualityEvaluators.Openness);
+		private static readonly IBot _bot = new StandardBotFramework(6, 3, BoardQualityEvaluators.OpennessMatthew);
 
 		/// <summary>
 		/// Main application entry point.

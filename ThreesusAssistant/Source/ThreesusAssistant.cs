@@ -10,7 +10,7 @@ namespace Threesus
 	/// </summary>
 	static class ThreesusAssistant
 	{
-		private static readonly IBot _bot = new StandardBotFramework(6, 3, BoardQualityEvaluators.Openness);
+		private static readonly IBot _bot = new StandardBotFramework(6, 3, BoardQualityEvaluators.OpennessMatthew);
 
 		/// <summary>
 		/// Main application entry point.
