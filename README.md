@@ -21,7 +21,7 @@ The Threesus.sln solution contains three sub-projects:
 
 - **ThreesusCore** contains most of the code for Threesus, including the game simulation code and the A.I. thinking code.
 - **ThreesusAssistant** is a command-line program that will help you play through an actual game of Threes on a phone or tablet.
-- **TheesusTest** is a program that plays through a hundred game simulations of Threes as fast as possible and reports statistical results.
+- **ThreesusTest** is a program that plays through a hundred game simulations of Threes as fast as possible and reports statistical results.
 
 The ThreesusCore project contains two sub-folders containing source code:
 
