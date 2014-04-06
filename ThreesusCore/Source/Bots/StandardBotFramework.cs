@@ -224,7 +224,7 @@ namespace Threesus.Bots
 								movesEvaluated++;
 							}
 
-							totalQuality += quality;
+							totalQuality += quality * deck.Ones;
 							totalWeight += deck.Ones;
 						}
 					}
@@ -249,7 +249,7 @@ namespace Threesus.Bots
 								movesEvaluated++;
 							}
 
-							totalQuality += quality;
+							totalQuality += quality * deck.Twos;
 							totalWeight += deck.Twos;
 						}
 					}
@@ -274,7 +274,7 @@ namespace Threesus.Bots
 								movesEvaluated++;
 							}
 
-							totalQuality += quality;
+							totalQuality += quality * deck.Threes;
 							totalWeight += deck.Threes;
 						}
 					}
