@@ -5,6 +5,8 @@ Threesus is an A.I. program that knows how to play [Threes](http://asherv.com/th
 
 This source code project on Github contains only the core A.I. source code.
 
+If you want a high-level overview of how the Threesus A.I. works, then go read [Walt's blog post](http://blog.waltdestler.com/2014/04/threesus.html).
+
 ## Getting Started ##
 1. If you don't already have it, download Microsoft Visual Studio 2013 (the free [Express for Windows Desktop](http://www.visualstudio.com/downloads/download-visual-studio-vs) version should work fine.) Unfortunately, Visual Studio only runs on Windows, but if you're on Mac, then it probably wouldn't be too hard to get the code working using [Xamarin Studio](https://xamarin.com/).
 2. Download the source code using the "Download ZIP" button on the right of this page, or clone the Git repository.
