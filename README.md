@@ -1,7 +1,7 @@
 Threesus
 ========
 
-Threesus is an A.I. program that knows how to play [Threes](http://asherv.com/threes/)! The core A.I. source code was originally created by [Walt Destler](https://twitter.com/waltdestler). [Matthew Wegner](https://twitter.com/mwegner) used it to create an actual Threes-playing robot and [streamed it live](http://www.twitch.tv/teamcolorblind/b/517126107) on Twitch.
+Threesus is an A.I. program that knows how to play [Threes](http://asherv.com/threes/)! The core A.I. source code was originally created by [Walt Destler](https://twitter.com/waltdestler). [Matthew Wegner](https://twitter.com/mwegner) used it to create an actual Threes-playing robot and [streamed it live](http://www.twitch.tv/teamcolorblind/b/517126107) on Twitch. The robot was featured on websites such as [Kotaku](http://kotaku.com/watch-a-robot-play-a-puzzle-game-live-1558469285) and [Gamasutra](http://www.gamasutra.com/view/news/214818/Indie_developers_build_robot_that_plays_Threes_perfectly.php).
 
 This source code project on Github contains only the core A.I. source code.
 
